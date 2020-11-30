@@ -1,12 +1,12 @@
 # FirstWebsite
 This is a site that I've created using HTML (and little to no CSS) after completing a basic HTML.
 
-Site version 1.01.
+(CURRENT) Site version 1.01.
 -Removed stylying from the HTML files and passed it to an independant CSS file.
 You can download the .zip file and open index.html (which would be the front page), or review the code within the .css and .html files from GitHub directly.
-Download link: 
+Download link: https://github.com/NicolasDelCore/FirstWebsite/raw/0a47523a6dd6831ed581c0e00999b2931e76e3c7/ExampleWebsiteV1.01.zip
 
-(Old) Site version 1.0.
+(OLD) Site version 1.0.
 You can download the .zip file and open index.html (which would be the front page), or review the code within the .html files from GitHub directly.
 Download link: https://github.com/NicolasDelCore/FirstWebsite/blob/main/ExampleWebsiteV1.zip
 
