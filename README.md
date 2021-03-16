@@ -1,5 +1,6 @@
 # FirstWebsite
 This is a site that I've created using HTML (and little to no CSS) after completing a basic HTML.
+Important: Open in Chrome. (I saw some problems from Edge and my cellphone's native browser.. mainly the CSS is not loading afaik).
 
 (CURRENT) Site version 1.01.
 -Removed stylying from the HTML files and passed it to an independant CSS file.
